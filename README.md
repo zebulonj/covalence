@@ -1,4 +1,4 @@
-# Covalance
+# Covalence
 
 ## Proxy
 
