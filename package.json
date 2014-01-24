@@ -1,6 +1,6 @@
 {
 	"name": "covalence",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"engines": { "node": "*" },
 	"author": "Zebulon Young",
 	"description": "Node.js based web application infrastructure."
