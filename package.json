@@ -2,10 +2,21 @@
 	"name": "covalence",
 	"version": "0.0.2",
 	"engines": { "node": "*" },
-	"author": "Zebulon Young",
+	"author": {
+		"name": "Zebulon Young",
+		"email": "zyoung@zebulonyoung.com"
+	},
 	"description": "Node.js based web application infrastructure.",
+	"keywords": [
+		"proxy",
+		"express",
+		"middleware"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/zebulonj/covalence"
+	},
+	"bugs": {
+		"url": "https://github.com/zebulonj/covalence/issues"
 	}
 }
